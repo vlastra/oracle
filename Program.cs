@@ -1,4 +1,4 @@
-﻿//
+﻿//v1
 using System;
 using Oracle.ManagedDataAccess.Client;
 namespace myOracleDB
